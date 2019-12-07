@@ -10,6 +10,10 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
+.indigo {
+  color: #8a2be2;
+}
+
 .red {
   color:#f00;
 }
